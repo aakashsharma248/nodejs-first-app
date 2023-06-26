@@ -1,0 +1,5 @@
+Some important points
+
+1. We should not be able to see the password in the datebase, so to encrypt the password we should use the "bcrypt"
+package
+2. 
